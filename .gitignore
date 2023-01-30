@@ -1,0 +1,8 @@
+# https://github.com/github/gitignore/blob/master/Global/Xcode.gitignore
+# https://github.com/github/gitignore/blob/master/Swift.gitignore
+
+## User settings
+xcuserdata/
+
+## Others
+.DS_Store
